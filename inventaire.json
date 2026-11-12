@@ -1,0 +1,24 @@
+[
+    {
+        "nom": "Vodahmin-labo",
+        "type": "Pc",
+        "marque": "aoc",
+        "modele": "axpro15",
+        "numero_de_serie": "959259296821989258",
+        "localisation": "Paris",
+        "etat": "En marche",
+        "id": 1,
+        "observations": "Ajout manuel"
+    },
+    {
+        "nom": "dftgyujhkl",
+        "type": "fghjklm",
+        "marque": "ftygjko",
+        "modele": "drftghjkom",
+        "numero_de_serie": "fcfghbjnklm",
+        "localisation": "dftghjikop",
+        "etat": "drftghujiko",
+        "id": 2,
+        "observations": "Ajout manuel"
+    }
+]
